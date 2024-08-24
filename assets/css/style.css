@@ -3628,6 +3628,7 @@ input:focus {
   }
 }
 .srex-testimonial-one__right img {
+  max-width: 825px;
   width: 100%;
   border-top-left-radius: 40px;
   border-bottom-left-radius: 40px;
@@ -4343,6 +4344,7 @@ input:focus {
   background: transparent;
   border: 1px solid #1D8F2C;
 }
+
 .srex-footer--mft .srex-footer__social_links li i {
   color: #fff;
 }
@@ -4396,7 +4398,10 @@ input:focus {
   transition: all 0.3s ease;
 }
 .srex-footer__social_links li:hover {
-  background-color: #1D8F2C;
+  background-color: #2d4996;
+  color: #fff;
+}
+.srex-footer__social_links li:hover a {
   color: #fff;
 }
 .srex-footer__contact li {
@@ -4539,9 +4544,13 @@ input:focus {
   color: #24231D;
 }
 
+.mt-10{
+  margin-top: 10px !important;
+}
 .srex-footer-one {
   background-color: #F8F7F0;
-  padding-top: 50px;
+  padding-top: 200px;
+  margin-top: 70px;
   background-image: url(../images/footer-one-bg.png);
   background-repeat: no-repeat;
   background-position: center;
