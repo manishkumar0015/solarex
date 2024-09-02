@@ -1154,7 +1154,7 @@ input:focus {
 }
 .ud-side-popup__bottom-info-box i {
   font-size: 30px;
-  color: #1D8F2C;
+  color: #2d4996;
 }
 .ud-side-popup__bottom-info-box h4 {
   font-weight: 600;
@@ -1168,7 +1168,7 @@ input:focus {
 }
 .ud-side-popup__bottom-socials li a {
   cursor: pointer;
-  background-color: #1D8F2C;
+  background-color: #2d4996;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-align: center;
