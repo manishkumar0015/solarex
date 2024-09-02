@@ -1182,12 +1182,12 @@ input:focus {
   transition: all 0.4s ease-in-out;
 }
 .ud-side-popup__bottom-socials li a:hover {
-  border-color: #1D8F2C;
+  border-color: #2d4996;
   background-color: transparent;
   border-radius: 4px;
 }
 .ud-side-popup__bottom-socials li a:hover i {
-  color: #1D8F2C;
+  color: #2d4996;
 }
 .ud-side-popup__bottom-socials li a i {
   font-size: 20px;
