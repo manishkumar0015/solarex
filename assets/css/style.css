@@ -1125,7 +1125,7 @@ input:focus {
   transition: all 0.3s ease-in-out;
 }
 .ud-side-popup__body ul li a:hover {
-  color: #1D8F2C;
+  color: #2d4996;
 }
 .ud-side-popup__body ul li a:hover i {
   background-color: #1D8F2C;
